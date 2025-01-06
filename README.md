@@ -22,3 +22,14 @@ pip install -r requirements.txt
 python3 -m pygame
 ```
 *Note: this will result in an error, but the output will show that `pygame` is installed*
+
+- [ ] Enjoy the game!
+
+## TO ADD:
+- [ ] Scoirng
+- [ ] Live scoring
+- [ ] Irregular shape of asteroids
+- [ ] Lives
+- [ ] Explosion effect
+- [ ] Zero gravity (sliding effect)
+- [ ] Power ups
