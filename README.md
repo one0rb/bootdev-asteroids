@@ -24,9 +24,12 @@ python3 -m pygame
 *Note: this will result in an error, but the output will show that `pygame` is installed*
 
 - [ ] Enjoy the game!
+```bash
+python3 main.py
+```
 
 ## TO ADD:
-- [ ] Scoirng
+- [ ] Scoring
 - [ ] Live scoring
 - [ ] Irregular shape of asteroids
 - [ ] Lives
